@@ -3,7 +3,7 @@ Uncovering trends, performance, and insights across global sales
 
 An end-to-end **Power BI dashboard project** built using the popular Adventure Works dataset to explore sales trends, optimize decision-making, and present clear business insights. This project showcases my capabilities in **data cleaning, transformation, modeling, and visualization** using Power BI.
 
-![Power BI Dashboard]((https://github.com/afreenshaikh/Dashlytics/blob/main/883b6451-92f3-464b-b05b-0679fe4ab4d4.png?raw=true)
+![Power BI Dashboard]((https://883b6451-92f3-464b-b05b-0679fe4ab4d4.png?raw=true)
 ) <!-- Replace with actual screenshot -->
 
 ---
