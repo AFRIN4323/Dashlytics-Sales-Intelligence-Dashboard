@@ -12,14 +12,23 @@ An end-to-end **Power BI dashboard project** built using the popular Adventure W
 
 This project simulates a real-world business scenario where a company needs to monitor its sales performance across different regions, product lines, and time periods. I’ve designed an interactive dashboard with dynamic visuals, performance KPIs, and data-driven storytelling.
 
+🚀 What This Project Is About
+Imagine a global company that wants to track sales trends and improve strategy. This dashboard helps answer:
+
+What are our top-selling products?
+
+Which regions are driving profit?
+
+How do our numbers change month over month or year over year?
+
 ---
 
 ## 🧹 Data Preparation Highlights
 
-- ✅ **Cleaned and transformed raw tables** using **Power Query Editor** (M Language).
-- 🧮 **Added custom columns** (e.g., `Profit`, `Year`, `Month Name`, `Sales Category`) to enhance analytical depth.
-- 🔄 Handled **nulls, inconsistent formats, and duplicates** across key tables (Sales, Products, Geography, Calendar).
-- 🔗 Built proper **data model with relationships** for accurate filtering and slicing.
+- ✅ Cleaned messy tables using Power Query.
+- 🧮 Created helpful fields like Profit, Sales Category, and Month Name.
+- 🔄 Removed duplicates and handled missing data.
+- 🔗 Built relationships between tables to allow smooth filtering and slicing.
 - 📊 Created multiple **DAX measures** to calculate totals, averages, YoY growth, and margins.
 
 ---
